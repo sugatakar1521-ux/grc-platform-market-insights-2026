@@ -1,5 +1,8 @@
 # Governance Risk and Compliance (GRC) Platform Market: Strategic Intelligence Report (2026)
 
+![(GRC) Platform Market](https://github.com/user-attachments/assets/b3a9c490-7260-49e0-9e38-b6d04309d7cf)
+
+
 **Market Overview and Growth Trajectory**
 
 The Governance Risk and Compliance (GRC) platform market is gaining strong momentum as enterprises face rising regulatory complexity, cyber threats, and operational risks across global supply chains. These platforms unify governance, risk, and compliance functions, enabling organizations to improve visibility, reduce exposure, and strengthen decision-making.
